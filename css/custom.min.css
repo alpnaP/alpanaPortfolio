@@ -204,3 +204,8 @@ body {
   background: #fff url("https://subtlepatterns.com/patterns/gplaypattern.png")
     repeat;
 }
+.avatar {
+  width: calc(100% / 3.5);
+  height: 240px;
+  margin: 2%;
+}
