@@ -200,3 +200,7 @@ footer .social li a {
   font-size: 1.25em;
   color: #999;
 }
+body {
+  background: #fff url("https://subtlepatterns.com/patterns/gplaypattern.png")
+    repeat;
+}
